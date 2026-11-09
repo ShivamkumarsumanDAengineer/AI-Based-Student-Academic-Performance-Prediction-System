@@ -2,11 +2,11 @@
 
 A Streamlit application that estimates a student's final academic score from academic and attendance indicators using a trained machine-learning model.
 
-## Live Demo
+## ScholarIQ Live App
 
-[Open ScholarIQ — Student Performance Prediction](https://suman-tech.streamlit.app/)
+[ScholarIQ live app](https://suman-tech.streamlit.app/?utm_source=chatgpt.com)
 
-> The demo URL is the Streamlit address supplied for this project. App availability should be checked in Streamlit Community Cloud.
+> This is the hosted app URL supplied for the project. The live runtime has not been independently verified, so availability and successful operation are not guaranteed.
 
 ## Features
 
